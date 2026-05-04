@@ -1,5 +1,9 @@
 # MA1805--frequency-garden
 
+https://xohiraaa.github.io/MA1805--frequency-garden/
+
+Members- Hira Jehangir
+
 *Concept*
 
 Frequency Garden is a small tile-based game built in p5.js, it includes a  fairy character moving through a fantasy environment. The player then collects glowing orbs to unlock a door and move through levels. 
