@@ -27,7 +27,7 @@ The development process did involve a lot of trial and error. E.g. I continuousl
 
 The project was influenced by both games and theory. Super Mario Bros influenced the way I structured progression and item collection, while The Legend Of Zelda inspired the top-down exploration style. I was also inspired by Thomas Was Alone which shows how simple mechanics can still be engaging. For theory, I took ideas from Schell (2020) on player experience which contrasts to Salen & Zimmerman. Schell focuses on the emotional experience for the player. I included visually engaging elements (auras) and engaging audio to immerse the user while remaining simple. 
 
-*Evaluation and Further Improvements *
+*Evaluation and Further Improvements*
 
 Overall, the project demonstrates key programming concepts from the module like tilemaps, loops and conditionals. It also reflects independent problem-solving as I worked by myself and experimented beyond class material which I am quite proud of. If I were to develop this further, I would expand the frequency mechanic, so it affects the gameplay more directly, such as changing accessible paths. I would also improve asset detail if I had more time and create more levels. 
 
