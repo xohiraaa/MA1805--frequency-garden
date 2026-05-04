@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #000;
+}
+
+/* keeping this simple so I stop breaking layout stuff */
+canvas {
+  display: block;
+  margin: 0 auto;
+}
